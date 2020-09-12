@@ -1,0 +1,54 @@
+html,
+body {
+  background-color: #49beb7;
+}
+
+.section {
+  background-color: whitesmoke;
+  border-radius: 1em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5em;
+  width: 60em;
+}
+
+#divNavMetRerTram {
+  width: 30em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3em;
+}
+
+#ulNavPrincipal {
+  height: 3em;
+  margin-top: 2em;
+}
+
+.linkNavLines {
+  border-radius: 2.5em;
+  width: 2.5em;
+  height: 2.5em;
+}
+
+#navMetro {
+  padding: 1em;
+}
+
+#linkMetro,
+#linkRer,
+#linkTram {
+  font-size: 2em;
+  color: whitesmoke;
+}
+
+.bordered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3em;
+  padding: 1em;
+  text-align: center;
+  width: 30em;
+}
